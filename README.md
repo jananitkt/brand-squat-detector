@@ -13,6 +13,12 @@ Detect phishing-style domains that imitate popular brands using typo similarity,
 
 ---
 
+## 📸 Preview
+
+<img src="https://github.com/jananitkt/brand-squat-detector/blob/main/brand-squat-detector.png" alt="brand-squat-detector UI Screenshot" width="100%" />
+
+---
+
 ## 🔧 Run Locally
 
 ```bash
